@@ -6,3 +6,4 @@ In here,we have tried to detect exact objects on the image by detecting edges an
 Automatic counting is objective, reliable and reproducible, cells, RBCs, fish, eggs.
 
 ![](image/first.png)
+![](image/second.png)
